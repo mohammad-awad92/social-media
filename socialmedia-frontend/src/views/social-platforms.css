@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.card-container {
+  padding: 30px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 5px;
+}
+
+.kep-login-facebook.metro {
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  display: inline-flex;
+}
+.text-facebook-login1 {
+  justify-content: center;
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.text-facebook-login2 {
+  justify-content: center;
+  font-size: 15px;
+  font-family: sans-serif;
+}
